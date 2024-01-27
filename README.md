@@ -8,15 +8,15 @@ The game is divided into two parts: The tutorial part and the Time challenge. Th
 
 ## Obstacle/Hazards Implemented:
 > If you would like to play the game don't look before playing the game
-- [Boulders]()
-- [Broken Platform]()
-- [Teleport Mechanism]()
-- [Moving Platform]()
-- [Game Timer]()
-- [Respawn Mechanism]()
-- [Spikes]()
-- [Main Menu UI]()
-- [Game Pause UI]()
+- [Boulders](Content/Project_Image/Boulders)
+- [Falling Platform](Content/Project_Image/Broken%20Platform)
+- [Moving Platform](Content/Project_Image/Moving%20Platform)
+- [Spikes](Content/Project_Image/Spikes)
+- [Teleport Mechanism](Content/Project_Image/Teleport%20Mechanism)
+- [Respawn Mechanism](Content/Project_Image/Respawn%20Mechanism)
+- [Game Timer](Content/Project_Image/Game%20Timer)
+- [Main Menu UI](Content/Project_Image/Main%20Menu%20UI)
+- [Game Pause UI](Content/Project_Image/Game%20Pause%20UI)
 
 
 ## Project Gallery:
@@ -33,6 +33,6 @@ The game is divided into two parts: The tutorial part and the Time challenge. Th
 The project was designed with the requirements of mitigating biases. This was achieved by using "Learning Mechanics - Game Mechanics" of the game and also a post-game survey was conducted. The environmental hazards introduced in the game like moving platforms, rolling boulders, spikes etc. had their own learning curve and also addressed biases.
 
 ## Known Bugs/Future improvements:
-There is a bug in the menu interface which occurs when the game is paused and players head to the controls page. This can be fixed by properly managing the menu system to keep track on which menu is drawn.
+There is a bug in the menu interface which occurs when the game is paused and players head to the controls page. This can be fixed by properly managing the menu system to keep track of which menu is drawn.
 
 Future improvements could be adding audio cues to various hazards which can also help in creating awareness. Another Improvement can be more UI added to the game which helps players to know which direction they need to go after respawning. Apart from that a new character model and more levels can be introduced to make the game fun and challenging.
