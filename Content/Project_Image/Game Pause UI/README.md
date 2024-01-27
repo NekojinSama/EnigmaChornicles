@@ -7,3 +7,5 @@
 ![image](controls.png)
 
 ![image](controlsbp.png)
+
+![image](thirdpersonbp.png)
