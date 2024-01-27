@@ -2,6 +2,7 @@
 The project was developed for my dissertation topic "Addressing and Mitigating Cognitive Bias with Serious Games", this game was made in Unreal Engine 5. In "The Enigma Chronicles" players embark on a challenging journey through a series of floating crystalline platforms, aiming to reach a designated endpoint while navigating various obstacles and hazards.
 
 The duration for completing this project was two months. This project showcases my ability to understand a game engine and make a game from scratch.
+> [Link to play the game](https://drive.google.com/file/d/1xDCoCXsQogiHsasP34cv_-RHRwUr8GSP/view?usp=sharing)
 
 ## Game Loop:
 The game is divided into two parts: The tutorial part and the Time challenge. The tutorial part walks through different hazards which can be seen over the game like avoiding boulders, dodging spikes and jumping on platforms. It also helps in getting an idea of the respawn portal function. After the tutorial comes the timed challenge where players are made to complete the game in as minimum time as possible. The timer doesn’t reset when the players fall from the platform making them complete the game with fewer risks and fewer errors.
