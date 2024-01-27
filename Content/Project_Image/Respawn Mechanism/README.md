@@ -1,5 +1,5 @@
 # Respawn Tech
 
-![image](checkpoint.png)
+![image](Checkpoints.png)
 
 ![image](respawnbp.png)
